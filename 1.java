@@ -3,8 +3,7 @@ class Main {
     int sum = 0;
     for (int i = 1; i <= 100; i ++) {
       sum += i;
-      }
-      System.out.println("1〜100までの整数の和は" + sum + "です。" );
     }
+    System.out.println("1〜100までの整数の和は" + sum + "です。" );
   }
 }
